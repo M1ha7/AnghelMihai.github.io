@@ -1,0 +1,211 @@
+body {
+  background-color: #e3fdfd;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.main {
+  position: relative;
+  line-height: 2rem;
+  width: 100%;
+  bottom: 2.5rem;
+}
+
+h1 {
+  position: relative;
+  color: #71c9ce;
+  font-size: 5.625rem;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+h2 {
+  position: relative;
+  color: #71c9ce;
+  font-weight: normal;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h3 {
+  position: relative;
+  color: #71c9ce;
+  text-align: center;
+  font-size: 2rem;
+}
+
+ul {
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  left: 46%;
+  display: inline-block;
+  font-size: 1.2rem;
+  color: #71c9ce;
+}
+
+.first-line {
+  position: relative;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #71c9ce;
+  border-width: 7px;
+  width: 20%;
+  bottom: 1rem;
+}
+
+.header {
+  position: relative;
+  background-color: #a6e3e9;
+  height: 75px;
+}
+
+.top-image {
+  margin-top: 3rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto 0 auto;
+}
+
+.first-image {
+  position: relative;
+  height: 128px;
+  top: 66px;
+  right: 35%;
+}
+
+.second-image {
+  position: relative;
+  height: 128px;
+  left: 35%;
+  bottom: 124.7px;
+}
+
+.top-image {
+  position: relative;
+  bottom: 9.3rem;
+}
+
+span {
+  text-decoration: underline;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact {
+  position: relative;
+  top: 1rem;
+  right: 2rem;
+  font-size: 2rem;
+  color: #00adb5;
+}
+
+.options {
+  position: relative;
+  top: 1rem;
+  font-size: 2rem;
+}
+
+.line {
+  border: solid;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+  position: relative;
+  right: 0.725rem;
+  top: 1rem;
+  border-color: #00adb5;
+}
+
+a {
+  text-decoration: none;
+  color: #00adb5;
+}
+
+.first-skill {
+  width: 50%;
+  margin-top: 20rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.first-skill-text {
+  color: #71c9ce;
+  position: relative;
+  font-size: 1.2rem;
+  top: 1rem;
+  text-align: left;
+  max-width: 37.5rem;
+}
+
+.html {
+  width: 35%;
+  position: relative;
+  float: left;
+  height: 16rem;
+}
+
+.footer {
+  background-color: #a6e3e9;
+  height: 75px;
+  margin-top: 30rem;
+  display: block;
+  position: relative;
+  width: auto;
+}
+
+.skills {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copyright {
+  text-align: center;
+  position: relative;
+  top: 1.75rem;
+  color: #bbbbbb;
+  font-size: 16px;
+}
+
+.second-skill {
+  width: 50%;
+  margin-top: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.css {
+  position: relative;
+  float: right;
+}
+
+.second-line {
+  position: relative;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #71c9ce;
+  border-width: 7px;
+  width: 20%;
+  top: 25rem;
+  right: 17rem;
+}
+
+.skills-name {
+  position: relative;
+  top: 10rem;
+}
+
+p {
+  font-family: 'Anonymous Pro', monospace;
+}
